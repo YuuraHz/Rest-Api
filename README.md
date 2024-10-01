@@ -40,4 +40,4 @@
 - [`Rynz`]()
 - [`Creative Team`]()
 - [`Danzzcoding`]()
-- [`ZeeoneOfc`](https://github.com)
+- [`ZeeoneOfc`](https://github.com/zeeoneofficial)
