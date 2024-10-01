@@ -1,5 +1,3 @@
-## ```Alphabot-Api```
-
 ## ```HOW TO INSTALL```
 
 # Cyclic App
@@ -42,4 +40,4 @@
 - [`Rynz`]()
 - [`Creative Team`]()
 - [`Danzzcoding`]()
-- [`ZeeoneOfc`]()
+- [`ZeeoneOfc`](https://github.com)
